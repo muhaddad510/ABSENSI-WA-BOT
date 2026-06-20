@@ -1,0 +1,4 @@
+/* @tailwind base;  <-- Hapus atau comment baris ini */
+@tailwind components;
+@stack('css')
+@tailwind utilities;
